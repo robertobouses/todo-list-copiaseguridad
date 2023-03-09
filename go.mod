@@ -1,4 +1,4 @@
-module github.com/robertobouses/todo-list
+module github.com/robertobouses/todo-list-copiaseguridad
 
 go 1.19
 
